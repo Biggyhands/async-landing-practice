@@ -1,5 +1,5 @@
 # async-landing-practice
-Landing page (HTML, CSS, API Fetch)
+Landing page (HTML, CSS, JS, API Fetch)
 
 Preview 
 
